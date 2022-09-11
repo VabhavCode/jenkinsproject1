@@ -1,2 +1,4 @@
+!/bin/bash
 echo 'hello from project1'
 date
+echo 'completed'
